@@ -1,0 +1,4 @@
+# 排除代理服务器
+payload:
+  - DOMAIN-SUFFIX,2y7.top
+  - DOMAIN-SUFFIX,7h7.xyz
