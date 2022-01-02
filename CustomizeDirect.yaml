@@ -1,0 +1,5 @@
+# 自己添加的一些直连规则
+payload:   
+  - PROCESS-NAME,transmission-daemon
+  - PROCESS-NAME,aria2c
+  - SRC-PORT,50000-65535,DIRECT
