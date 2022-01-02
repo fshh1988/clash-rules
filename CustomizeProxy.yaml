@@ -1,3 +1,4 @@
 # 自己添加的一些规则
 payload:
   - DOMAIN-SUFFIX,time.android.com
+  - DOMAIN-SUFFIX,hdsky.me
