@@ -2,3 +2,9 @@
 payload:
   - DOMAIN-SUFFIX,time.android.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,whrq.net
+  - DOMAIN-SUFFIX,whoer.net
