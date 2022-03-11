@@ -1,3 +1,4 @@
 # 自己添加的一些直连规则
 payload:
-  - SRC-IP-CIDR,192.168.1.250/32,no-resolve
+  - SRC-IP-CIDR,192.168.250.250/32,no-resolve
+  - SRC-IP-CIDR,192.168.0.211/32,no-resolve
