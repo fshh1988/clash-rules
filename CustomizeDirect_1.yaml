@@ -1,3 +1,4 @@
 # 自己添加的一些直连规则
 payload:
   - DOMAIN-KEYWORD,onething
+  - DOMAIN-SUFFIX,syncthing.net
