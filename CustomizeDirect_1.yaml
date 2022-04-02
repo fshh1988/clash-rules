@@ -2,3 +2,4 @@
 payload:
   - DOMAIN-KEYWORD,onething
   - DOMAIN-SUFFIX,syncthing.net
+  - DOMAIN-SUFFIX,portcheck.transmissionbt.com
