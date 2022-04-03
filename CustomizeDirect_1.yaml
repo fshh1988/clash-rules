@@ -2,6 +2,7 @@
 payload:
   #- DOMAIN-KEYWORD,onething
   #- DOMAIN-SUFFIX,portcheck.transmissionbt.com
+  - DOMAIN-SUFFIX,syncthing.net
   - PROCESS-NAME,UnblockNeteaseMusic
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,syncthing
