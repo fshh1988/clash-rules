@@ -2,6 +2,7 @@
 payload:
   #- DOMAIN-KEYWORD,onething
   #- DOMAIN-SUFFIX,portcheck.transmissionbt.com
+  - DOMAIN,northernwolf.3322.org
   - DOMAIN-SUFFIX,syncthing.net
   - PROCESS-NAME,node
   - PROCESS-NAME,transmission-daemon
