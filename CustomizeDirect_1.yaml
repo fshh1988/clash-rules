@@ -7,4 +7,4 @@ payload:
   - PROCESS-NAME,node
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,syncthing
-  - IP-CIDR,104.17.212.135/32,no-resolve
+ # - IP-CIDR,104.17.212.135/32,no-resolve
