@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,softether-network.net
   - DOMAIN,northernwolf.3322.org
   - DOMAIN-SUFFIX,syncthing.net
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,jellyfin.org
   - PROCESS-NAME,node
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,syncthing
