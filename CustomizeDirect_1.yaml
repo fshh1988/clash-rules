@@ -11,4 +11,5 @@ payload:
   - PROCESS-NAME,node
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,syncthing
+  - PROCESS-NAME,vpnserver
  # - IP-CIDR,104.17.212.135/32,no-resolve
