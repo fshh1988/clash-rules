@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,jellyfin.org
+  - DOMAIN-SUFFIX,teamviewer.com
   - PROCESS-NAME,node
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,syncthing
