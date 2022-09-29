@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,softether.org
   - DOMAIN,northernwolf.3322.org
   - DOMAIN-SUFFIX,syncthing.net
-  - DOMAIN-SUFFIX,synology.com
+  #- DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,jellyfin.org
   - DOMAIN-SUFFIX,teamviewer.com
   - PROCESS-NAME,node
