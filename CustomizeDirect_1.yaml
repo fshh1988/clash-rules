@@ -1,7 +1,7 @@
 # 自己添加的一些直连规则
 payload:
   #- DOMAIN-KEYWORD,onething
-  #- DOMAIN-SUFFIX,portcheck.transmissionbt.com
+  - DOMAIN-SUFFIX,portcheck.transmissionbt.com
   - DOMAIN-SUFFIX,softether-network.net
   - DOMAIN-SUFFIX,softether.org
   - DOMAIN,northernwolf.3322.org
